@@ -2,4 +2,4 @@
 
 Rock paper scissors game created with HTML, CSS and JS.
 
-[Live Demo](https://michalosman.github.io/rock-paper-scissors/) :point_left:
+[Live Demo](https://rockpaperscissorspro.netlify.app/) :point_left:
